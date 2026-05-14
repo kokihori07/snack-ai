@@ -2,4 +2,5 @@
 
 サプライズ用の静的ホームページです。
 
-公開URL: https://kokihori07.github.io/snack-ai/
+GitHub Pages: https://kokihori07.github.io/snack-ai/
+Cloudflare Pages: https://snack-ai.pages.dev/
